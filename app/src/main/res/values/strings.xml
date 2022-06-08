@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnCalculate">Посчитать</string>
+    <string name="round_switcher">Округлить?</string>
+    <string name="rb_text_okay">Нормально (15%)</string>
+    <string name="rb_text_good">Хорошо (18%)</string>
+    <string name="tv_question">Оцените наше обслуживание.</string>
+    <string name="tv_service_cost">Стоимость услуги</string>
+    <string name="rb_text_excellent">Отлично (20%)</string>
+    <string name="final_tip_amount">Чаевые: %s</string>
+</resources>
