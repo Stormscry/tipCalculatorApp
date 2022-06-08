@@ -21,9 +21,6 @@ class MainFragment : Fragment() {
     private val b
         get() = binding!!
 
- val l = mutableListOf(1, 2, "qwe")
-    //private var serviceCost by Delegates.notNull<Double>()
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
